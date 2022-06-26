@@ -1,0 +1,8 @@
+# Files
+.env
+stats.json
+
+# Folders
+.vscode/
+node_modules/
+dist/

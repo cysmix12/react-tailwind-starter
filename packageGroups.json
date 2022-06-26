@@ -1,0 +1,6 @@
+{
+  "prefix": "deps",
+  "groups": {
+    "react": ["react", "react-dom"]
+  }
+}
